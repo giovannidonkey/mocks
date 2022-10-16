@@ -1,0 +1,117 @@
+Exercise 1>//
+
+.two,.three,.four{
+  position: relative;
+  top : 50px;
+  left : 50px;
+}
+
+Exercise 2>//
+
+.four {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  position: absolute;
+  right: 0;
+}
+
+Exercise 3>//
+
+.three {
+  width: 200px;
+  height: 200px;
+  background-color: green;
+  position: relative;
+  top: 200px;
+  left: 400px;
+}
+
+.four {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  position: relative;
+  top: 100px;
+}
+
+Exercise 4>//
+
+.one {
+  
+  width: 400px;
+  height: 400px;
+  background-color: red;
+  position: relative;
+}
+
+.two {
+  
+  width: 300px;
+  height: 300px;
+  background-color: yellow;
+  position: relative;
+  top: 100px;
+  left: 100px;
+  
+}
+
+.three {
+  width: 200px;
+  height: 200px;
+  background-color: green;
+  position: absolute;
+  top: -100px;
+  left: -100px;
+}
+
+.four {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  position: relative;
+  top: 100px;
+  left: 100px;
+
+}
+
+Exercise 5>//
+
+.one {
+  
+  width: 400px;
+  height: 400px;
+  background-color: red;
+  position: fixed;
+  top : 5px;
+  left: 5px;
+}
+
+.two {
+  
+  width: 300px;
+  height: 300px;
+  background-color: yellow;
+  position: fixed;
+  bottom: 5px;
+  right: 5px;
+  
+}
+
+.three {
+  width: 200px;
+  height: 200px;
+  background-color: green;
+  position: absolute;
+  top: -200px;
+}
+
+.four {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  position: fixed;
+  top: 5px;
+  left: 5px;
+
+}
