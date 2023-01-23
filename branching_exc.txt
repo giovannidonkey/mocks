@@ -1,0 +1,7 @@
+Part I
+- git checkout -b [name of branch]
+- Fast forward merges can only occur when no commits were made to the master branch while a new branch is still being 
+  worked on, otherwise it recursive.-
+- git checkout [name of branch]
+- git branch -d [name of branch] then repeat with -D
+- Git asks for you to decide which file/folder to merge when different commits have been made to the same file/folder.
