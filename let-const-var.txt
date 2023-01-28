@@ -1,0 +1,10 @@
+LET CONST EXERCISE
+
+1.// var can be reassigned and redeclared, while let can only reassign. Also, vars can use hoisted variables.
+
+2.// const is declared once and cannot change and var can reassigned and redeclared.
+
+3.// let can be reassigned and const cannot.
+
+4.// Hoisting is how the compiler pulls vars before running the rest of the code, so that these variables will 
+	be undefined until further notice.
