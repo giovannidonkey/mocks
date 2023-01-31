@@ -42,5 +42,6 @@ class Garage{
         if(vehicle instanceof Vehicle) return 'Only Vehicles, fool!';
         if(this.spots.length >= this.cap) return 'Sorry we are at capacity.';
         this.spots.push(vehicle);
+        return 'Vehicle accepted!';
     }
 }
